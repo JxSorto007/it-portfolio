@@ -1,0 +1,3 @@
+# Screenshots
+
+Azure IAM screenshots.
