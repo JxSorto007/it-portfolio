@@ -1,5 +1,5 @@
 # IT Portfolio - Active Directory & Cloud Identity Labs
-This repository contains hands-on IT projects demonstrating experience with on-premise Active Directory and cloud-based identity administration. 
+This project documents a hands-on Active Directory lab built to practice common IT Support/System Administration tasks. This lab focuses on user and group management, access control through security groups, and troubleshooting authentication/permission issues in a Windows domain environment.
 
 ## Projects
 
