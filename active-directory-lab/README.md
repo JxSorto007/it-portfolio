@@ -1,6 +1,3 @@
-# Active Directory Lab 
-Screenshots and documentation for my Active Directory project.
-
 ## Screenshots
 
 ### Active Directory Users 
